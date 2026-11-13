@@ -1,5 +1,4 @@
-<img width="1920" height="1080" alt="Captura de pantalla 2026-11-13 134713" src="https://github.com/user-attachments/assets/477d7b7c-d2c5-4cb4-b90b-d49fc75e127e" />
-<img width="1920" height="1080" alt="Captura de pantalla 2026-11-13 134626" src="https://github.com/user-attachments/assets/d7e8a983-5a40-4a89-93b1-866dcdd886ed" />
+
 \# Laboratorio Ansible con Docker
 
 
@@ -126,7 +125,7 @@ docker exec server2 ls /tmp/ansible-demo
 
 
 
-\## Captura de pantalla de la ejecución exitosa
+
 
 
 
@@ -141,7 +140,8 @@ docker exec server2 ls /tmp/ansible-demo
 ```bash
 
 docker compose down
-
+\## Captura de pantalla de la ejecución exitosa
 ```
 <img width="1920" height="1080" alt="Captura de pantalla 2026-11-13 134626" src="https://github.com/user-attachments/assets/6912514b-fc43-441c-95ca-6d3bda164616" />
+<img width="1920" height="1080" alt="Captura de pantalla 2026-11-13 134713" src="https://github.com/user-attachments/assets/477d7b7c-d2c5-4cb4-b90b-d49fc75e127e" />
 
